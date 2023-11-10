@@ -53,7 +53,7 @@ Badges aren't necessary, per se, but they demonstrate street cred. Badges let ot
 
 ## Contribution 🤝
 
-By doing a pull request [(https://github.com/NormallyRayne/SVG-Logo-Maker/pulls)]
+By doing a pull request: https://github.com/NormallyRayne/SVG-Logo-Maker/pulls
 
 ## Tests 🧪
 
