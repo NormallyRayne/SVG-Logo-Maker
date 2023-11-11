@@ -6,9 +6,7 @@
 
 SVG Maker is a versatile and user-friendly project designed to empower developers, designers, and creatives with a powerful tool for generating Scalable Vector Graphics (SVG) files. Built on Node.js and utilizing the Node Package Manager (NPM), this project offers a seamless and efficient solution for creating customized SVG graphics with ease.
 
-## Table of Contents (Optional) 📜
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents 📜
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,7 +15,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation 💻
 
-Use cli with the command ```Node index.js``` to start 
+Use terminal in vscode and type in ```Node index.js``` to start 
 
 ## Usage 🎯
 
